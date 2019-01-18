@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+.m-30px {
+    margin-top: 300px;
+}
+.bg-darkgray {
+    background-color: #839394;
+    color: white;
+}
+.bg-lightgray {
+    background-color: #95A5A6;
+    color: white;
+}
+a {
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+.m-0 {
+    margin: 0;
+}
+.navbar-right > li {
+    list-style: none;
+    padding-left: 15px;
+}
+.navbar-header >a {
+    list-style: none;
+    padding-left: 15px;
+}
+.navbar-nav > li > a> i {
+    padding: 0 7px;
+}
